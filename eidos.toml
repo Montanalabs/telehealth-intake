@@ -1,0 +1,7 @@
+name = "telehealth-intake"
+version = "0.1.0"
+description = "Telehealth intake router"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
